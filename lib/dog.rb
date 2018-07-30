@@ -2,7 +2,7 @@
 class Dog
   def dog
     puts "#{fido},#{snoppy},#{lassie}."
-    puts "Woof"
+    puts 
   end
 end
  fido = Dog.new
